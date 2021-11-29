@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/causeway-app/static/css/main.b4ca6976.chunk.css",
+    "main.js": "/causeway-app/static/js/main.610947c4.chunk.js",
+    "main.js.map": "/causeway-app/static/js/main.610947c4.chunk.js.map",
+    "runtime-main.js": "/causeway-app/static/js/runtime-main.ef39d13b.js",
+    "runtime-main.js.map": "/causeway-app/static/js/runtime-main.ef39d13b.js.map",
+    "static/js/2.6b038502.chunk.js": "/causeway-app/static/js/2.6b038502.chunk.js",
+    "static/js/2.6b038502.chunk.js.map": "/causeway-app/static/js/2.6b038502.chunk.js.map",
+    "static/js/3.d5655a0a.chunk.js": "/causeway-app/static/js/3.d5655a0a.chunk.js",
+    "static/js/3.d5655a0a.chunk.js.map": "/causeway-app/static/js/3.d5655a0a.chunk.js.map",
+    "index.html": "/causeway-app/index.html",
+    "static/css/main.b4ca6976.chunk.css.map": "/causeway-app/static/css/main.b4ca6976.chunk.css.map",
+    "static/js/2.6b038502.chunk.js.LICENSE.txt": "/causeway-app/static/js/2.6b038502.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef39d13b.js",
+    "static/js/2.6b038502.chunk.js",
+    "static/css/main.b4ca6976.chunk.css",
+    "static/js/main.610947c4.chunk.js"
+  ]
+}
