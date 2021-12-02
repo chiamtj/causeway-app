@@ -1,6 +1,6 @@
 import React from "react";
 import API from "../API";
-import "./CausewayCam.css"
+import "./CausewayCam.css";
 
 class CausewayCam extends React.Component {
     constructor () {
